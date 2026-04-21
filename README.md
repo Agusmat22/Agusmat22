@@ -95,34 +95,6 @@ const agustin = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/ZEU9ryYGZzttn0Cva2/giphy.gif" width="28"> Last Year Contributions
-
-<div align="center">
-
-<!-- Activity graph showing a rolling window of recent contributions -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Agusmat22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2563EB&line=06B6D4&point=ffffff&area=true&area_color=2563EB&custom_title=Commit%20Activity%20%E2%80%94%20Last%2012%20Months" alt="Last 12 months activity graph" />
-
-<br/><br/>
-
-<!-- Commits, stars, PRs, issues, contributed-to: rolling last-year view -->
-<a href="https://github.com/Agusmat22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agusmat22&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=06B6D4&custom_title=Last%20Year%20Stats" alt="Last year stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agusmat22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB" alt="Top languages" />
-</a>
-
-<br/><br/>
-
-<!-- Rolling streak: current + longest + total contributions -->
-<img src="https://streak-stats.demolab.com?user=Agusmat22&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=06B6D4&currStreakLabel=2563EB" alt="GitHub Streak" />
-
-</div>
-
-<blockquote align="center">
-  📌 <em><strong>Note:</strong> the <code>Last Year Stats</code> card shows commits from the current calendar year by default (GitHub API limitation). The activity graph above reflects the rolling 12-month window and updates automatically.</em>
-</blockquote>
-
-<br/>
-
 <!-- ===== CONTACT SECTION ===== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
