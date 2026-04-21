@@ -132,53 +132,6 @@ const agustin = {
 
 <br/>
 
-## 🐍 Mira a la serpiente comerse mis contribuciones
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Agusmat22/Agusmat22/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Agusmat22/Agusmat22/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Agusmat22/Agusmat22/output/github-snake.svg" />
-</picture>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/Nx0rz3jtxtEre.gif" width="28"> Proyectos Destacados
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🩺 DataMorpher</h3>
-      <p><em>ETL médico para transformación de datos clínicos a gran escala</em></p>
-      <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🏢 Intranet Corporativa</h3>
-      <p><em>Plataforma crítica con generador dinámico de formularios</em></p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🤖 AI Chatbot Ecommerce</h3>
-      <p><em>Agente conversacional para automatización de ventas</em></p>
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangGraph-1C3A3A?style=flat-square" />
-      <img src="https://img.shields.io/badge/RAG-00D9FF?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Frase del día
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<br/>
 
 <!-- ===== CONTACT SECTION ===== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
