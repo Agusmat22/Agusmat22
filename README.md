@@ -41,10 +41,6 @@ const agustin = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Lo que estoy haciendo ahora
-
-<br/>
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Stack Tecnológico
 
 <div align="center">
@@ -114,23 +110,9 @@ const agustin = {
 
 </div>
 
-<br/>
-
-## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="28"> Trofeos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Agusmat22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> Gráfico de Actividad
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Agusmat22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2563EB&line=06B6D4&point=ffffff&area=true&area_color=2563EB" />
-</div>
-
-<br/>
 
 
 <!-- ===== CONTACT SECTION ===== -->
