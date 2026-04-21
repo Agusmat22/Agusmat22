@@ -5,7 +5,7 @@
 
 <!-- ===== TYPING ANIMATION ===== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Fullstack+Developer+%7C+AI+Solutions+Developer;.NET+8+%E2%80%A2+Python+%E2%80%A2+Next.js+%E2%80%A2+Go;Building+intelligent+agents+%26+RAG+systems;Microservices+%E2%80%A2+gRPC+%E2%80%A2+AWS+%E2%80%A2+Docker;From+Buenos+Aires%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Fullstack+Developer+%26+AI+Solutions;.NET+8+%E2%80%A2+Python+%E2%80%A2+Next.js+%E2%80%A2+Go;Building+intelligent+agents+%26+RAG+systems;Microservices+%E2%80%A2+gRPC+%E2%80%A2+AWS+%E2%80%A2+Docker;From+Buenos+Aires%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing SVG" />
 </a>
 
 <!-- ===== PROFILE VIEWS + FOLLOWERS ===== -->
@@ -20,32 +20,32 @@
 <!-- ===== WAVE ANIMATION ===== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre mí
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```typescript
 const agustin = {
   role: "Fullstack Developer",
   location: "Buenos Aires, Argentina 🇦🇷",
   built: [
-    "🖥️ Microservicios con Golang + Comunicacion GRPC",
-    "💾 Backends robustos con .NET"
-    "🏥 Servicio de Telemedicina",
-    "🤖 Agentes inteligentes con LangGraph + MCP",
-    "🔍 Sistemas RAG con pgvector & ChromaDB",
-    "🌐 Sitio institucional con Next.js 14"
+    "🖥️ Microservices in Golang with gRPC communication",
+    "💾 Robust backends with .NET",
+    "🏥 Telemedicine service",
+    "🤖 Intelligent agents with LangGraph + MCP",
+    "🔍 RAG systems with pgvector & ChromaDB",
+    "🌐 Institutional website with Next.js 14"
   ],
   philosophy: ["SOLID", "Clean Code", "Hexagonal Architecture"],
-  funFact: "Escribo más prompts que SELECTs últimamente 🧠"
+  funFact: "Writing more prompts than SELECTs these days 🧠"
 };
 ```
 
 <br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Stack Tecnológico
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Tech Stack
 
 <div align="center">
 
-### 💻 Lenguajes
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=cs,python,ts,js,go,php,html,css&theme=dark" />
 
 ### ⚙️ Backend
@@ -59,7 +59,7 @@ const agustin = {
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,prisma&theme=dark" />
 
-### 🗄️ Bases de Datos
+### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
@@ -69,7 +69,7 @@ const agustin = {
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,bash&theme=dark" />
 
-### 🤖 IA & Automatización
+### 🤖 AI & Automation
 <img src="https://img.shields.io/badge/LangGraph-1C3A3A?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP-6B46C1?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -77,7 +77,7 @@ const agustin = {
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
 
-### 🏛️ Arquitectura
+### 🏛️ Architecture
 <img src="https://img.shields.io/badge/SOLID-092E20?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Clean_Code-0D6EFD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Hexagonal_Architecture-8B5CF6?style=for-the-badge" />
@@ -85,7 +85,7 @@ const agustin = {
 <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
-### 🧩 Patrones de Diseño
+### 🧩 Design Patterns
 <img src="https://img.shields.io/badge/Repository-1E88E5?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Services-00897B?style=for-the-badge&logo=serverfault&logoColor=white" />
 <img src="https://img.shields.io/badge/DTO-F57C00?style=for-the-badge&logo=json&logoColor=white" />
@@ -95,30 +95,38 @@ const agustin = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/ZEU9ryYGZzttn0Cva2/giphy.gif" width="28"> Estadísticas de GitHub
+## <img src="https://media.giphy.com/media/ZEU9ryYGZzttn0Cva2/giphy.gif" width="28"> Last Year Contributions
 
 <div align="center">
 
+<!-- Activity graph showing a rolling window of recent contributions -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Agusmat22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2563EB&line=06B6D4&point=ffffff&area=true&area_color=2563EB&custom_title=Commit%20Activity%20%E2%80%94%20Last%2012%20Months" alt="Last 12 months activity graph" />
+
+<br/><br/>
+
+<!-- Commits, stars, PRs, issues, contributed-to: rolling last-year view -->
 <a href="https://github.com/Agusmat22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agusmat22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=06B6D4" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agusmat22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agusmat22&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=06B6D4&custom_title=Last%20Year%20Stats" alt="Last year stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agusmat22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB" alt="Top languages" />
 </a>
 
 <br/><br/>
 
+<!-- Rolling streak: current + longest + total contributions -->
 <img src="https://streak-stats.demolab.com?user=Agusmat22&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=06B6D4&currStreakLabel=2563EB" alt="GitHub Streak" />
 
 </div>
 
+<blockquote align="center">
+  📌 <em><strong>Note:</strong> the <code>Last Year Stats</code> card shows commits from the current calendar year by default (GitHub API limitation). The activity graph above reflects the rolling 12-month window and updates automatically.</em>
+</blockquote>
 
 <br/>
-
-
 
 <!-- ===== CONTACT SECTION ===== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Conectemos</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Let's Connect</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/agustin-matias-garcia" target="_blank">
